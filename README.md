@@ -33,7 +33,7 @@ If I had more time I would:
 - Added more tests for edge cases
 - Added a range of numbered links for the pagination (i.e. << 1,2,3,4,5...>>)
 - Write CSS/SCSS, I like Tailwinds a lot. But I would have liked to style this with SCSS, or SCSS modules.
-- Made sure that the images displayed the same dimensions.
+- Made sure that the images displayed Large/medium/thumb  at different resolutions.
 - Add some polish. Some animation between routes, lazy loading content, fade in on enter screen for example.
 - Set up `page/:pageNum` routing.
 - Ensure I wasn't just spreading whole objects on as props...
